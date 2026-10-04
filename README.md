@@ -58,3 +58,5 @@ Server-side validation is repeated because client-side JavaScript can potentiall
 ## Purpose
 
 This project demonstrates how basic validation can be incorporated into a login system and reinforces the importance of performing security checks on the server rather than relying only on the browser.
+
+<img width="1087" height="716" alt="image" src="https://github.com/user-attachments/assets/d6e4c321-7896-40f6-bdfe-c3a0127bf768" />
